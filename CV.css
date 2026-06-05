@@ -1,13 +1,13 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4; 
+    background-color:white; 
     margin: 0 ; 
     padding: 20px;
 }
  
 .container {
-    background-color: white;
+    background-color: rgb(222, 64, 175);
     max-width: 900px;
     margin: 0 auto;
     padding: 30px;
@@ -23,7 +23,7 @@ body {
     background-color: #fff;
     display: flex;
     padding: 30px;
-    border-bottom: 5px solid #005f6b;
+    border-bottom: 5px solid #19c7de;
     align-items: center;
 }
 
